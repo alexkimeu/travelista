@@ -75,7 +75,7 @@
 						           <li><a href="login.php">Login</a></li>
 				            </ul>
 				          </li>
-				          <li><a href="contact.html">Contact</a></li>
+				          <li><a href="enquiry.php">Contact</a></li>
 				        </ul>
 				      </nav><!-- #nav-menu-container -->
 					</div>

@@ -3,7 +3,7 @@
 define('DB_HOST','localhost');
 define('DB_USER','root');
 define('DB_PASS','sodapop254kim!');
-define('DB_NAME','tms');
+define('DB_NAME','travelista');
 // Establish database connection.
 try
 {

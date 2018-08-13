@@ -203,7 +203,7 @@ hr {
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-left">
 			  				<ul>
 			  					<li><a href="signup.php>">Sign Up</a></li>
-			  					<li><a href="login.html">Login</a></li>
+			  					<li><a href="login.php">Login</a></li>
 			  				</ul>
 			  			</div>
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-right">
@@ -220,11 +220,11 @@ hr {
 				<div class="container main-menu">
 					<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
+				        <a href="index.php"><img src="img/logo.png" alt="" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				                <ul class="nav-menu">
-				          <       <li><a href="index.html">Home</a></li>
+				          <li><a href="index.php">Home</a></li>
 				          <li><a href="about.html">About</a></li>
 				          <li><a href="packages.html">Packages</a></li>
 				          <li><a href="hotels.html">Hotels</a></li>
@@ -237,11 +237,11 @@ hr {
 				          </li>
 				          <li class="menu-has-children"><a href="">Bookings</a>
 				            <ul>
-				            	  <li><a href="elements.html">Sign Up</a></li>
-						           <li><a href="Login.html">Login</a></li>
+				            	  <li><a href="signup.php">Sign Up</a></li>
+						           <li><a href="login.php">Login</a></li>
 				            </ul>
 				          </li>
-				          <li><a href="contact.html">Contact</a></li>
+				          <li><a href="enquiry.php">Contact</a></li>
 				        </ul
 				      </nav><!-- #nav-menu-container -->
 					</div>
